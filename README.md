@@ -105,8 +105,8 @@ A Patch for Dev-Ops community powered by The Community.
 
 ## Join us
 <a href="https://t.me/devOpsPatch"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"  height="45" width="45" ></a>
-|  [Telegram](https://t.me/devOpsPatch)  | 
-| ---------------------------------------------------- |
+
+[Telegram](https://t.me/devOpsPatch)
 
 ## Support the project ⭐
 
