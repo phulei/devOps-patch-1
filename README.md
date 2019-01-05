@@ -11,7 +11,7 @@ A Patch for Dev-Ops community powered by The Community.
    - AWS Certified Advanced Networking - Specialty Certification  [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2VwyAUC )
    - AWS Certified Developer-Associate 2018 ACloudGuru [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2LPdj3O)
    - AWS Certified Solutions Architect [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2Au3Udq)
-   - AWS Certified SysOps Administrator-Associate [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2SBcr5B)
+   - AWS Certified SysOps Administrator-Associate [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2RAg1iU)
    - CBT Nuggets - Identity with Windows Server 2016 [Exam 70-742] [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2C0YIh7)
    - CBT Nuggets - Installation Storage and Compute with Windows Server 2016 [Exam 70-740] [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2F8TIKA)
    - CBT Nuggets - Networking with Windows Server 2016 [Exam 70-741] [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2GVdyM0)
