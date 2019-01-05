@@ -7,8 +7,8 @@ A Patch for Dev-Ops community powered by The Community.
 ## Patch's
 
 - **Prep**
-   - Architecting Microsoft Azure Solutions Exam 70-534 Prep  [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2VwyAUC)
-   - AWS Certified Advanced Networking - Specialty Certification  [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2GS70gX)
+   - Architecting Microsoft Azure Solutions Exam 70-534 Prep  [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2GS70gX)
+   - AWS Certified Advanced Networking - Specialty Certification  [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2VwyAUC )
    - AWS Certified Developer-Associate 2018 ACloudGuru [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2LPdj3O)
    - AWS Certified Solutions Architect [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2Au3Udq)
    - AWS Certified SysOps Administrator-Associate [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2SBcr5B)
