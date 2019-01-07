@@ -29,6 +29,10 @@ A Patch for Dev-Ops community powered by The Community.
 
 - **Azure**
   - Azure Container Instances-Getting Started [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2FaxzMS)
+  - Pluralsight - Preparing to Pass the Microsoft Azure 70-533 Exam [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2Fdqnig)
+  - Pluralsight - Identity, Application, and Network Services on Microsoft Azure [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2VAxJ5a)
+  - Pluralsight - Monitoring Microsoft Azure Hybrid Cloud Networks by Tim Warner [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2Rbil0y)
+  - Pluralsight - Deploy Azure Virtual Networks, VPNs, and Gateways [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2VC5vHo)
 
 - **Linux / Tool / Mic**
   - DevOps Foundations Lean and Agile [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2F9jcse)
