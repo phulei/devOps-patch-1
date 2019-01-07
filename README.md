@@ -109,7 +109,7 @@ A Patch for Dev-Ops community powered by The Community.
 [Telegram](https://t.me/devOpsPatch)
 
 ## Support the project ⭐
-If you feel awesome and want to support us in a small way, please consider starring and sharing the repo! This helps us get visability and allow the community to grow. 🙏
+If you feel awesome and want to support us in a small way, please consider starring and sharing the repo! This helps us get visability and allow the community to grow. 🙏🙏
 
 ## Contributing
 Thank you for your interest in devOps-patch. Here are some of the many ways to contribute.
