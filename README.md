@@ -50,6 +50,9 @@ A Patch for Dev-Ops community powered by The Community.
   - Ansible From Beginner to Pro.pdf [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2F9Cqhl)
   - Pluralsight - Automating AWS and vSphere with Terraform [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2Tsor9m)
   - Pluralsight - Deep Dive - Terraform [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2VtndfT)
+  - Barbour C., Rhett J. - Puppet Best Practices - 2018.pdf [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2SBAe5j)
+  - Uphill T. et al. - DevOps Puppet, Docker, and Kubernetes - 2017.pdf [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2FfBur1)
+  - Linux Academy-Puppet 204 System Administration Using Puppet [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2AAlMU4)
   
 - **Docker**
   - Pluralsight - Docker Deep Dive by Nigel Poulton  [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2FaZOtV)
