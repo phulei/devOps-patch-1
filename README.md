@@ -76,7 +76,16 @@ A Patch for Dev-Ops community powered by The Community.
   - Running Jenkins on AWS [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2GWiXCm)
   - Continuous Delivery Using Docker And Ansible [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2sknSmN)
   - Continuous Integration and Continuous Delivery with AWS Developer Tools [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2sc0Qhz)
-  
+
+- **Maven** 
+  - O'Reilly - Learning Apache Maven [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2Txm45q)
+  - Udemy - Maven in 20 Steps - Learn Java Dependency Management [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2RtcKSL)
+  - Lynda - Java Build Automation with Maven [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2F8GuOM)
+
+
+
+
+
 - **Bot's**
   - [Hubot](https://hubot.github.com) - Hubot is your friendly robot sidekick. Install him in your company to dramatically improve employee efficiency
   - [lita](https://github.com/litaio/lita) - ChatOps for Ruby, Automate your business and have fun with your very own robot companion.
