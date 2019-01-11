@@ -69,7 +69,7 @@ A Patch for Dev-Ops community powered by The Community.
   - Kubernetes - Up and Running - Dive Into the Future of Infrastructure.pdf [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2RefWSY)
   - Pluralsight - Getting Started with Kubernetes [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2AxSENs)
   - Lynda - Kubernetes - Native Tools [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2QmhQLO)
-  - Lynda - Kubernetes Microservices [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2F8GPQR)
+  - Introduction to Kubernetes using Docker [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2VJbNoz)
   - Udemy - learn devops the complete kubernetes course [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2Vx6NTG)
   
 - **Git**
