@@ -90,6 +90,13 @@ A Patch for Dev-Ops community powered by The Community.
   - Udemy - Maven in 20 Steps - Learn Java Dependency Management [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2RtcKSL)
   - Lynda - Java Build Automation with Maven [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2F8GuOM)
 
+- **Microservices**
+  - O'Reilly - Developing Ops-Friendly Microservices [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2QECmr0)
+  - Lynda - Kubernetes Microservices [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2F8GPQR)
+  - O'Reilly - Building Microservice Systems with Docker and Kubernetes [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2sl5Ctt)
+
+
+
 
 
 
