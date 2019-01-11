@@ -52,6 +52,7 @@ A Patch for Dev-Ops community powered by The Community.
 - **Automates & Configuration Management**
   - Getting Started with Core Features in Ansible [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2GVbPX6)
   - Ansible From Beginner to Pro.pdf [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2F9Cqhl)
+  - Learn devops infrastructure automation with terraform [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2Cd9X6f)
   - Pluralsight - Automating AWS and vSphere with Terraform [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2Tsor9m)
   - Pluralsight - Deep Dive - Terraform [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2VtndfT)
   - Barbour C., Rhett J. - Puppet Best Practices - 2018.pdf [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2SBAe5j)
