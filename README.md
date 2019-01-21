@@ -125,7 +125,14 @@ A Patch for Dev-Ops community powered by The Community.
   - [awesome](https://github.com/sindresorhus/awesome) - Curated list of awesome lists
   - [ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops) - Ansible examples from Ansible for DevOps
 
-
+- **YouTube channels**
+  - [DevOpsTV](https://www.youtube.com/channel/UC-zcE077X98oTEDPwKkDQxQ) - The official YouTube channel of DevOps.com, where the world meets DevOps.
+  - [DevOps Days Kiev](https://www.youtube.com/channel/UCKazA3mg-cm2Euqszj24ULg) - DevOps Days Kiev
+  - [DevOps Gathering](https://www.youtube.com/channel/UCQZcFFlmKBBAhvSupNTm2tw) - international conference, located in Bochum
+  - [DevOps Conference](https://www.youtube.com/channel/UCttdqyJB5wuJOO2KXea6WMQ) - The Conference for Continuous Delivery, Microservices, Docker, Clouds & Lean Business
+  - [Arrested DevOps](https://www.youtube.com/channel/UCR-hALzuoKC283ioYCec8pg) - Podcast about DevOps.
+  - [Devopsdays NYC](https://www.youtube.com/channel/UCMPMrRvbMq4UXOOvlYksCIw) - This is the DevOpsDay NYC channel.
+  - [DevOpsDays Rockies](https://www.youtube.com/channel/UC-FYMcyJr5KWD7SM4Qzs38A) - DevOpsDays Rockies
 
 ## Join us
 <a href="https://t.me/devOpsPatch"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"  height="45" width="45" ></a>
