@@ -38,6 +38,7 @@ A Patch for Dev-Ops community powered by The Community.
 - **Linux / Tool / Mic**
   - DevOps Foundations Lean and Agile [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2F9jcse)
   - DevOps The Big Picture [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2LYQ1c5)
+  - Packt - Modern DevOps [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2T2FJKx)
   - Udemy - Learn Devops Continuously Deliver Better Software [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2R6Ixtf)
   - EDUmobile Academy - Complete Linux Shell Training for Beginners [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2RyaOrZ)
   - Linux Academy - Learning Vagrant [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2sbYr6x)
@@ -54,6 +55,7 @@ A Patch for Dev-Ops community powered by The Community.
 - **Automates & Configuration Management**
   - Getting Started with Core Features in Ansible [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2GVbPX6)
   - Ansible From Beginner to Pro.pdf [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2F9Cqhl)
+  - Pluralsight - Hands-on Ansible [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2WaE73l)
   - Learn devops infrastructure automation with terraform [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2Cd9X6f)
   - Pluralsight - Automating AWS and vSphere with Terraform [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2Tsor9m)
   - Pluralsight - Deep Dive - Terraform [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2VtndfT)
@@ -68,6 +70,7 @@ A Patch for Dev-Ops community powered by The Community.
   - udemy - Docker and Kubernetes, The Complete Guide 2018-09 [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2AtKo0Q)
   - Integrating Docker With Devops Automated Workflows [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2SybiLY)
   - O'Reilly - Introduction to CoreOS [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2HmZqva)
+  - Docker Compose in Depth - StoneRiverLearning [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2MmoEbO)
 
 - **Kubernetes**
   - Kubernetes - Up and Running - Dive Into the Future of Infrastructure.pdf [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2RefWSY)
