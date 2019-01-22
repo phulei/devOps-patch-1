@@ -26,6 +26,7 @@ A Patch for Dev-Ops community powered by The Community.
   - AWS DevOps Sec Govern Validation [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2QqpIvJ)
   - AWS Data Security [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2LRmh0u)
   - Auditing AWS Environments for Security and Best Practices by Chad Smith [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2CRXtmd)
+  - AWS for DevOps Continuous Delivery and Process Automation [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2FFtUqz)
 
 - **Azure**
   - Azure Container Instances-Getting Started [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2FaxzMS)
@@ -49,6 +50,7 @@ A Patch for Dev-Ops community powered by The Community.
   - Packpub - DevOps with GIT-Flow Jenkins Artifactory Sonar ELK JIRA [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2Av7PXq)
   - Udemy - Complete DEVOPS with Docke Jenkins GIT Vagrant and Maven [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2s950XJ)
 
+
 - **Automates & Configuration Management**
   - Getting Started with Core Features in Ansible [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2GVbPX6)
   - Ansible From Beginner to Pro.pdf [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2F9Cqhl)
@@ -65,6 +67,7 @@ A Patch for Dev-Ops community powered by The Community.
   - Monitoring Containerized Application Health with Docker [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2ReEnjb)
   - udemy - Docker and Kubernetes, The Complete Guide 2018-09 [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2AtKo0Q)
   - Integrating Docker With Devops Automated Workflows [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2SybiLY)
+  - O'Reilly - Introduction to CoreOS [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2HmZqva)
 
 - **Kubernetes**
   - Kubernetes - Up and Running - Dive Into the Future of Infrastructure.pdf [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2RefWSY)
@@ -147,7 +150,7 @@ If you feel awesome and want to support us in a small way, please consider starr
 Thank you for your interest in devOps-patch. Here are some of the many ways to contribute.
 
 - Add New resource
-- Answer and ask questions on the Community [devOps-patch](https://t.me/devOpsPatch) , [DevOps Professionals](https://t.me/DevOpsProfessionals)
+- Answer and ask questions on the Community [devOps-patch](https://t.me/devOpsPatch) ,  [DevOps](https://t.me/joinchat/BkBvqULzhcG1AhRE7ljMyg) , [DevOps Professionals](https://t.me/DevOpsProfessionals)
 - Engage with us on Telegram Community
 
 Pull requests are welcome.
