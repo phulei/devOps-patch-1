@@ -78,6 +78,7 @@ A Patch for Dev-Ops community powered by The Community.
   - Lynda - Kubernetes - Native Tools [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2QmhQLO)
   - Introduction to Kubernetes using Docker [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2VJbNoz)
   - Udemy - learn devops the complete kubernetes course [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2Vx6NTG)
+  - Linux Academy - Running Container Clusters with Kubernetes [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2FOflkE)
   
 - **Git**
   - Learn Git in 3 Hours  [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2sbE9dp)
@@ -97,9 +98,11 @@ A Patch for Dev-Ops community powered by The Community.
   - Lynda - Java Build Automation with Maven [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2F8GuOM)
 
 - **Microservices**
+   - O'Reilly - The Principles of Microservices [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2Uga1tn)
+  - Udemy - Microservices Fundamentals [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2TfEOXk)
   - O'Reilly - Developing Ops-Friendly Microservices [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2QECmr0)
-  - Lynda - Kubernetes Microservices [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2F8GPQR)
   - O'Reilly - Building Microservice Systems with Docker and Kubernetes [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2sl5Ctt)
+  - Lynda - Kubernetes Microservices [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2F8GPQR)
 
 
 
