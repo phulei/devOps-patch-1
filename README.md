@@ -50,6 +50,7 @@ A Patch for Dev-Ops community powered by The Community.
   - Jira-7 Guide for Administrators and Developers [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2VthVkA)
   - Packpub - DevOps with GIT-Flow Jenkins Artifactory Sonar ELK JIRA [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2Av7PXq)
   - Udemy - Complete DEVOPS with Docke Jenkins GIT Vagrant and Maven [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2s950XJ)
+  - Udemy - Nginx Fundamentals High Performance Servers from Scratch [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2MFBmm5)
 
 
 - **Automates & Configuration Management**
@@ -98,11 +99,12 @@ A Patch for Dev-Ops community powered by The Community.
   - Lynda - Java Build Automation with Maven [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2F8GuOM)
 
 - **Microservices**
-   - O'Reilly - The Principles of Microservices [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2Uga1tn)
+  - O'Reilly - The Principles of Microservices [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2Uga1tn)
   - Udemy - Microservices Fundamentals [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2TfEOXk)
   - O'Reilly - Developing Ops-Friendly Microservices [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2QECmr0)
   - O'Reilly - Building Microservice Systems with Docker and Kubernetes [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2sl5Ctt)
   - Lynda - Kubernetes Microservices [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2F8GPQR)
+  - Udemy - Microservices with spring cloud [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2TkckvF)
 
 
 
