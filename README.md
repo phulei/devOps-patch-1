@@ -19,6 +19,12 @@ A Patch for Dev-Ops community powered by The Community.
    - Linux Academy - Microsoft Azure 2018 [Exam 70-533] [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2LSVW1Y)
    - LinuxAcademy - Linux Foundation Certified Systems Administrator [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2R7NwKa)
 
+- **GCP**
+   - CBT Nuggets - Google Cloud Platform Fundamentals CP100A [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2Rui18c)
+   - Google Cloud Platform Certification – Cloud Architect [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2SnRRZH)
+   - Google Cloud Platform Development Essentials [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2HJCGFO)
+
+
 - **AWS**
   - AWS for DevOps High Availability and Elasticity [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2SBcr5B)
   - AWS MasterClass DevOps with AWS Command Line Interface CLI StoneRivereLearning [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2LP1gn4)
@@ -102,7 +108,12 @@ A Patch for Dev-Ops community powered by The Community.
   - Udemy - Microservices Fundamentals [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2TfEOXk)
   - O'Reilly - Developing Ops-Friendly Microservices [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2QECmr0)
   - O'Reilly - Building Microservice Systems with Docker and Kubernetes [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2sl5Ctt)
+  - O'Reilly - Event-Driven Microservices [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2MIRbIP)
   - Lynda - Kubernetes Microservices [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2F8GPQR)
+  - Microservices Development on Azure with Java [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2Wxfu0T)
+  - Packt - Building Microservices on AWS [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2DLC3HI)
+  - Microservices for the Enterprise - 2018 [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2MGN2oU)
+  - Building Microservices. Designing Fine-Grained Systems - 2015 [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2SnQnP7)
 
 
 
