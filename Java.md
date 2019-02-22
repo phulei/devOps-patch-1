@@ -5,8 +5,9 @@
 ## Java
 
 - **Courses and books**
-
-  _TODO_
+  - JAVA Programming for Beginners - The Complete Course  [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2tDfVtb)
+  - Udemy - Complete Java Masterclass  [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2GVjUcu)
+  - Udemy - Selenium WebDriver with Java [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2U4iLTN)
 
 - **Tools & Tips**
   - [Java Generics FAQs](http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html) - Frequently Asked Questions :top:
