@@ -6,6 +6,9 @@
 
 - **Courses and books**
    - Udemy - Go Programming for Beginners  [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2I02TA2)
+   - Go Foundations  [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2IuIpzD)
+   - Go - learn how to code  [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2GWXurn)
+   - Go - Go programming by example  [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2tzjwc4)
    - The Go Programming Language.pdf  [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2BzH9FR)
    - Udemy - Go Programming by Example  [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2UKVLsT)
    - Ultimate Go Programming, Second Edition  [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2UOyy9s)
