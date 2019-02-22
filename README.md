@@ -44,6 +44,10 @@ A Patch for Dev-Ops community powered by The Community.
 * CBT Nuggets - Google Cloud Platform Fundamentals CP100A [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2Rui18c)
 * Google Cloud Platform Certification – Cloud Architect [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2SnRRZH)
 * Google Cloud Platform Development Essentials [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2HJCGFO)
+* Google Cloud Platform for AWS Professionals [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2TYhgXc)
+* Pluralsight - Google Cloud Platform Fundamentals [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2E8TPDJ)
+* Packtpub - Hands-on Google Cloud Platform - Data Engineer [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2E8k5yp)
+* Udemy - GCP data engineer and cloud architect [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2XiRcYT)
 
 ## AWS
 * AWS for DevOps High Availability and Elasticity [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2SBcr5B)
