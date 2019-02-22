@@ -118,6 +118,7 @@ A Patch for Dev-Ops community powered by The Community.
 
 ## CI CD
 * Jenkins Essential Training [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2CPbdy9)
+* Jenkins - From Zero To Hero Become a DevOps Jenkins Master [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2txFNH1)
 * Running Jenkins on AWS [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2GWiXCm)
 * Continuous Delivery Using Docker And Ansible [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2sknSmN)
 * Continuous Integration and Continuous Delivery with AWS Developer Tools [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2sc0Qhz)
