@@ -11,6 +11,7 @@ A Patch for Dev-Ops community powered by The Community.
     - [Python](Python.md)     
 - [Ops](#ops)
     - [Prep](#prep)
+    - [Linux](#linux)
     - [GCP](#gcp)
     - [AWS](#aws)
     - [Azure](#azure)
@@ -39,6 +40,21 @@ A Patch for Dev-Ops community powered by The Community.
 * Linux Academy - Red Hat Certificate of Expertise in Ansible Automation Prep Course [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2LW7kdK)
 * Linux Academy - Microsoft Azure 2018 [Exam 70-533] [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2LSVW1Y)
 * LinuxAcademy - Linux Foundation Certified Systems Administrator [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2R7NwKa)
+
+## Linux
+* Linux Administration Bootcamp [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2tzCmj2)
+* Linux - Kernel and System Startup LPIC-2 [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2SlGMEn)
+* Linux - Network Client Management LPIC-2 [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2IyIOB8)
+* Linux - Advanced File System Management LPIC-2 [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2Es2mmP)
+* Linux - Managing File Services LPIC-2 [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2TdNLng)
+* Linux - Managing Web Services LPIC-2 [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2U3Bf6R)
+* Linux - Managing DNS Servers LPIC-2 [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2BJw2Kr)
+* Linux - Monitoring and Maintenance LPIC-2 [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2TZozxQ)
+* Advanced Linux - The Linux Kernel [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2Xlhfif)
+* Advanced Linux System Administration [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2NmflJH)
+* Udemy - Linux Command Line Basics [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2BPoR3b)
+* Udemy - Complete Bash Shell scripting [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2VftCKQ)
+* Udemy - Learn Linux in 5 days [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2SVpP8F)
 
 ## GCP
 * CBT Nuggets - Google Cloud Platform Fundamentals CP100A [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2Rui18c)
