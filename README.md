@@ -5,10 +5,12 @@
 A Patch for Dev-Ops community powered by The Community.
 
 ### Patch's
-- [dev](#dev)
+- [Dev](#dev)
     - [Golang](Golang.md)
     - [Java](Java.md)
-    - [Python](Python.md)     
+    - [Python](Python.md)
+    - [Databases](Databases.md)
+- [Net](Net.md)
 - [Ops](#ops)
     - [Prep](#prep)
     - [Linux](#linux)
