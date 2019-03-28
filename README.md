@@ -16,6 +16,7 @@ A Patch for Dev-Ops community powered by The Community.
 - [Ops](#ops)
   - [Prep](#prep)
   - [Linux](#linux)
+  - [OpenStack](#openstack)
   - [GCP](#gcp)
   - [AWS](#aws)
   - [Azure](#azure)
@@ -61,6 +62,15 @@ A Patch for Dev-Ops community powered by The Community.
 - Udemy - Linux Command Line Basics [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2BPoR3b)
 - Udemy - Complete Bash Shell scripting [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2VftCKQ)
 - Udemy - Learn Linux in 5 days [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2SVpP8F)
+
+## OpenStack
+
+- Pearson - OpenStack Certification Complete, 2nd Ed [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2UjYH39)
+- Linux Academy Red Hat Certified Engineer in Red Hat OpenStack Prep Course [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2JMxtOG)
+- Denton J. - OpenStack Networking Essentials [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2FyRfI5)
+- Pluralsight RHCSA for Red Hat OpenStack Using OpenStack (Compute and Network Services). [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2WxSv5d)
+- Solberg M., Silverman B. - OpenStack for Architects [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2UXbGF0)
+- V. K. Cody Bumgardner - OpenStack in Action.pdf [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2OArs6w)
 
 ## GCP
 
