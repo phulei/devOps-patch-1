@@ -5,7 +5,7 @@
 A Patch for Dev-Ops community powered by The Community.
 
 ### Patch's
-- [dev](#dev)
+- [Dev](#dev)
     - [Golang](Golang.md)
     - [Java](Java.md)
     - [Python](Python.md)     
@@ -24,12 +24,12 @@ A Patch for Dev-Ops community powered by The Community.
     - [Maven](#maven)
     - [Microservices](#microservices)
     - [Bots](#bots)
-    - [Tools-and-Tips](#tools-and-tips)
+    - [Tools and Tips](#tools-and-tips)
     - [YouTube channels](#youtube-channels)
     - [Join us](#join-us)
 
 ## Prep
-* Architecting Microsoft Azure Solutions Exam 70-534 Prep  [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2GS70gX)
+* Architecting Microsoft Azure Solutions [Exam 70-534] Prep  [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2GS70gX)
 * AWS Certified Advanced Networking - Specialty Certification  [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2VwyAUC )
 * AWS Certified Developer-Associate 2018 ACloudGuru [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2LPdj3O)
 * AWS Certified Solutions Architect [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2Au3Udq)
@@ -159,16 +159,12 @@ A Patch for Dev-Ops community powered by The Community.
 
 
 
-
-
-
-
 ## Bots
 * [Hubot](https://hubot.github.com) - Hubot is your friendly robot sidekick. Install him in your company to dramatically improve employee efficiency
 * [lita](https://github.com/litaio/lita) - ChatOps for Ruby, Automate your business and have fun with your very own robot companion.
 * [botpress](https://github.com/botpress/botpress) - The ultimate open-source bot platform with built-in NLU 
 
-## Tools-and-Tips
+## Tools and Tips
 * [DevopsWiki](https://github.com/Leo-G/DevopsWiki) - A wiki of Devops Tools, Tutorials and Scripts
 * [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of awesome lists, manuals, blogs, hacks, one-liners, cli/web tools and more. Especially for System and Network Administrators, DevOps, Pentesters or Security Researchers.
 * [test-your-sysadmin-skills](https://github.com/trimstray/test-your-sysadmin-skills) - A collection of *nix Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.
