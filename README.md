@@ -39,12 +39,12 @@ A Patch for Dev-Ops community powered by The Community.
 - AWS Certified Developer-Associate 2018 ACloudGuru [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2LPdj3O)
 - AWS Certified Solutions Architect [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2Au3Udq)
 - AWS Certified SysOps Administrator-Associate [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2RAg1iU)
-- CBT Nuggets - Identity with Windows Server 2016 [Exam 70-742]![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2C0YIh7)
-- CBT Nuggets - Installation Storage and Compute with Windows Server 2016 [Exam 70-740]![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2F8TIKA)
-- CBT Nuggets - Networking with Windows Server 2016 [Exam 70-741]![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2GVdyM0)
 - Linux Academy - Red Hat Certificate of Expertise in Ansible Automation Prep Course [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2LW7kdK)
-- Linux Academy - Microsoft Azure 2018 [Exam 70-533]![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2LSVW1Y)
 - LinuxAcademy - Linux Foundation Certified Systems Administrator [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2R7NwKa)
+- CBT Nuggets - Identity with Windows Server 2016 [Exam 70-742]. [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2C0YIh7)
+- CBT Nuggets - Installation Storage and Compute with Windows Server 2016 [Exam 70-740]. [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2F8TIKA)
+- CBT Nuggets - Networking with Windows Server 2016 [Exam 70-741]. [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2GVdyM0)
+- Linux Academy - Microsoft Azure 2018 [Exam 70-533]. [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2LSVW1Y)
 
 ## Linux
 
