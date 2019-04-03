@@ -120,6 +120,8 @@ A Patch for Dev-Ops community powered by The Community.
 - Packpub - DevOps with GIT-Flow Jenkins Artifactory Sonar ELK JIRA [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2Av7PXq)
 - Udemy - Complete DEVOPS with Docke Jenkins GIT Vagrant and Maven [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2s950XJ)
 - Udemy - Nginx Fundamentals High Performance Servers from Scratch [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2MFBmm5)
+- Udemy - Linux Academy - Nagios Certified Professional [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2VgVcb1)
+- O'Reilly - Modern Nagios [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2WCYo0O)
 
 ## Automates and Configuration Management
 
