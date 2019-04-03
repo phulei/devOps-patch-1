@@ -13,6 +13,7 @@ A Patch for Dev-Ops community powered by The Community.
   - [Python](python.md)
   - [Databases](databases.md)
   - [Javascript](javascript.md)
+  - [Mic](dev-mic.md)
 - [Net](net.md)
 - [Ops](#ops)
   - [Prep](#prep)
