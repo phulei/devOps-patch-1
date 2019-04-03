@@ -2,7 +2,7 @@
 
 <a href="https://t.me/devOpsPatch"><img src="./tux-root.png" height="200" width="200"></a>
 
-## C/C++
+## C/C++/C#
 
 - **Courses and books**
    - C++ Programming A-Z From Beginner to Advanced [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2I6IIz7)
@@ -12,6 +12,10 @@
    - Udemy - Learn C programming: C language [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2I2634T)
    - Bayle J. - C Programming for Arduino.pdf [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2I18vsd)
    - Chavan S. - C Recipes A Problem-Solution Approach.pdf [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2U6GLty)
+   - Udemy - Complete C# Masterclass [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2I2jbab)
+   - Michaelis M., Lippert E. - Essential C# [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2U6VkgI)
+   - Posadas M. - Mastering C# and .NET Framework [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2HOlsXg)
+   - Agafonov E., Koryavchenko A. - Mastering C# Concurrency.pdf [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2WBB7MU)
 
 - **Tools & Tips**
 

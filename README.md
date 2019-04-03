@@ -7,7 +7,8 @@ A Patch for Dev-Ops community powered by The Community.
 ### Patch's
 
 - [Dev](#dev)
-  - [Golang](golang.md)
+  - [Golang](golang.md) 
+  - [C C++ C#](cpp.md)
   - [Java](java.md)
   - [Python](python.md)
   - [Databases](databases.md)
@@ -24,6 +25,7 @@ A Patch for Dev-Ops community powered by The Community.
   - [Automates and Configuration Management](#automates-and-configuration-management)
   - [Docker](#docker)
   - [Kubernetes](#kubernetes)
+  - [OpenShift](#openshift)
   - [Git](#git)
   - [CI CD](#ci-cd)
   - [Maven](#maven)
@@ -148,6 +150,12 @@ A Patch for Dev-Ops community powered by The Community.
 - Introduction to Kubernetes using Docker [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2VJbNoz)
 - Udemy - learn devops the complete kubernetes course [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2Vx6NTG)
 - Linux Academy - Running Container Clusters with Kubernetes [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2FOflkE)
+
+## OpenShift
+
+- Packtpub - The Ultimate Openshift Bootcamp [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2WGQTpB)
+- Udemy - OpenShift for the Absolute Beginners - Hands on [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2Vf4bJP)
+- Oreilly - Getting Started with OpenShift.pdf [![](https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/png/cloud-download-2x.png)](http://bit.ly/2Uqoir5)
 
 ## Git
 
